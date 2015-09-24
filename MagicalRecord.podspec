@@ -3,7 +3,7 @@ Pod::Spec.new do |s|
   s.version  = '2.3.0'
   s.license  = 'MIT'
   s.summary  = 'Super Awesome Easy Fetching for Core Data 1!!!11!!!!1!.'
-  s.homepage = 'http://github.com/magicalpanda/MagicalRecord'
+  s.homepage = 'http://github.com/ziyabal/MagicalRecord'
   s.author   = { 'Saul Mora' => 'saul@magicalpanda.com', 'Tony Arnold' => 'tony@thecocoabots.com' }
   s.source   = { :git => 'https://github.com/ziyabal/MagicalRecord.git', :tag => "v#{s.version}" }
   s.description  = 'Handy fetching, threading and data import helpers to make Core Data a little easier to use.'
